@@ -1,4 +1,4 @@
-Seções:
+Sections:
 
 📌 Introduction
 
